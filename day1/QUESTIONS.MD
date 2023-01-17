@@ -1,5 +1,5 @@
 1.How much is the current memory capacity of a canister?
-8Gib for a canister
+48GB for a canister
 
 2.What is the issue with the following code sample?
 let is variable immutable
