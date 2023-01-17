@@ -11,4 +11,4 @@ let is variable immutable
 
 4.False or True: we can remove the keyword async for return argument of a query function since queries are faster to answer.
 
-False, caller will have to wait for a response
+True, caller will have to wait for a response with Async
